@@ -3,5 +3,6 @@
   "productName": "My Product",
   "productDomain": "myproduct.dev",
   "workersDevSubdomain": "orundemo",
-  "orunWorkspace": "org_cef544e8d6244b9182d17032de5a553d"
+  "orunWorkspace": "org_cef544e8d6244b9182d17032de5a553d",
+  "orunWorkspaceSlug": "orun-test-234"
 }
